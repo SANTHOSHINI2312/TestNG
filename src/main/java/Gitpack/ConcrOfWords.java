@@ -22,10 +22,11 @@ public class ConcrOfWords {
 			}
 			System.out.println(m);
 			System.out.println("GitHub Update");
+			System.out.println("Checking git status");
 		}
 		
 
 	}
 
 
-}
+
